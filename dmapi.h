@@ -2,7 +2,7 @@
  * Schneider-Electric                                                           *
  * Global Solutions - Digital Services Transformation                           *
  * Digital Services Platform                                                    *
- * Copyright (c) 2014 - All rights reserved.                                    *
+ * Copyright (c) 2019 - All rights reserved.                                    *
  *                                                                              *
  * Developed by:                                                                *
  *          Hicham Hossayni                                                     *
